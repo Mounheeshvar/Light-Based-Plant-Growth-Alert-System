@@ -50,5 +50,5 @@ The circuit works using a battery, Sensor, transistor and Buzzer.
 
 Keep the circuit connections tight and Correct. 
 
-
+![Plant Growing Setup](1000068091.jpg)
 
